@@ -1,0 +1,569 @@
+[{
+		"category":	"InfF-36",
+		"numcomp":	1,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	58,
+				"pos":	1,
+				"first":	"Enara",
+				"last":	"BASANTA MORALEJA",
+				"club":	"J.C. Erandio",
+				"country":	"ERA"
+			}]
+	}, {
+		"category":	"InfF-44",
+		"numcomp":	1,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	90,
+				"pos":	1,
+				"first":	"June",
+				"last":	"SADABA CORBACHO",
+				"club":	"Yamabuki",
+				"country":	"YAM"
+			}]
+	}, {
+		"category":	"InfF-48",
+		"numcomp":	4,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	50,
+				"pos":	1,
+				"first":	"Maialen",
+				"last":	"CALDERON SAINZ",
+				"club":	"IES Artaza-Romo",
+				"country":	"ART"
+			}, {
+				"ix":	57,
+				"pos":	2,
+				"first":	"Eneritz",
+				"last":	"SELLAN SAEZ",
+				"club":	"J.C. Erandio",
+				"country":	"J.C. Erandio"
+			}, {
+				"ix":	51,
+				"pos":	3,
+				"first":	"Araitz",
+				"last":	"MOLEDO IZQUIERDO",
+				"club":	"IES Artaza-Romo",
+				"country":	"ART"
+			}, {
+				"ix":	31,
+				"pos":	3,
+				"first":	"Saioa",
+				"last":	"LLORENTE BOTAS",
+				"club":	"Samurai",
+				"country":	"SAM"
+			}]
+	}, {
+		"category":	"InfF-52",
+		"numcomp":	6,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	52,
+				"pos":	1,
+				"first":	"Ohiane",
+				"last":	"TOCA MEDINA",
+				"club":	"IES Artaza-Romo",
+				"country":	"ART"
+			}, {
+				"ix":	89,
+				"pos":	2,
+				"first":	"Melina Gisel",
+				"last":	"BONIFACIO BONIFACIO",
+				"club":	"J.C. Sonkei",
+				"country":	"SON"
+			}, {
+				"ix":	54,
+				"pos":	3,
+				"first":	"Maddi",
+				"last":	"VIGIOLA SAENZ",
+				"club":	"IES Artaza-Romo",
+				"country":	"ART"
+			}, {
+				"ix":	87,
+				"pos":	3,
+				"first":	"Uxue",
+				"last":	"GARCIA CID",
+				"club":	"J.C. Sonkei",
+				"country":	"SON"
+			}]
+	}, {
+		"category":	"InfF-63",
+		"numcomp":	4,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	96,
+				"pos":	1,
+				"first":	"Aiala",
+				"last":	"REVUELTA IRASTORZA",
+				"club":	"Ohisama",
+				"country":	"OHI"
+			}, {
+				"ix":	94,
+				"pos":	2,
+				"first":	"Saioa",
+				"last":	"VELASCO GOMEZ",
+				"club":	"Ohisama",
+				"country":	"OHI"
+			}, {
+				"ix":	98,
+				"pos":	3,
+				"first":	"Keila",
+				"last":	"RODRIGUEZ CALZADA",
+				"club":	"Ohisama",
+				"country":	"OHI"
+			}, {
+				"ix":	93,
+				"pos":	3,
+				"first":	"June",
+				"last":	"RODRIGUEZ WATANABE",
+				"club":	"Ohisama",
+				"country":	"OHI"
+			}]
+	}, {
+		"category":	"InfM-38",
+		"numcomp":	7,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	34,
+				"pos":	1,
+				"first":	"Eneko",
+				"last":	"FERNANDEZ GONZALEZ",
+				"club":	"J.C. Sonkei",
+				"country":	"SON"
+			}, {
+				"ix":	33,
+				"pos":	2,
+				"first":	"Iñigo",
+				"last":	"HERNANDO UNAMUNO",
+				"club":	"Shisei",
+				"country":	"SHI"
+			}, {
+				"ix":	104,
+				"pos":	3,
+				"first":	"Ignacio",
+				"last":	"ARANA PAVIA",
+				"club":	"Ohisama",
+				"country":	"OHI"
+			}, {
+				"ix":	63,
+				"pos":	3,
+				"first":	"Jon",
+				"last":	"DIAZ DE LEZANA CASTAÑOS",
+				"club":	"J.C. Erandio",
+				"country":	"ERA"
+			}]
+	}, {
+		"category":	"InfM-46",
+		"numcomp":	3,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	24,
+				"pos":	1,
+				"first":	"Iñigo",
+				"last":	"PINILLA UBIERNA",
+				"club":	"Real Jundo",
+				"country":	""
+			}, {
+				"ix":	86,
+				"pos":	2,
+				"first":	"Julen",
+				"last":	"ARRIETA PIÑEIRO",
+				"club":	"J.C. Sonkei",
+				"country":	"SON"
+			}, {
+				"ix":	85,
+				"pos":	3,
+				"first":	"Adrian",
+				"last":	"LAGUNA GOMEZ",
+				"club":	"Real Jundo",
+				"country":	""
+			}]
+	}, {
+		"category":	"InfM-50",
+		"numcomp":	7,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	106,
+				"pos":	1,
+				"first":	"Ander",
+				"last":	"GIL ALONSO",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	95,
+				"pos":	2,
+				"first":	"Jon Ander",
+				"last":	"SANTA-MARIA SANTOS",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	46,
+				"pos":	3,
+				"first":	"Unax",
+				"last":	"MARTIN MENDIOLA",
+				"club":	"IES Artaza-Romo",
+				"country":	""
+			}, {
+				"ix":	97,
+				"pos":	3,
+				"first":	"Iker",
+				"last":	"RUIZ GONZÁLEZ",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"InfM-55",
+		"numcomp":	6,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	32,
+				"pos":	1,
+				"first":	"Eneko",
+				"last":	"SAN VICENTE ERDOZAIN",
+				"club":	"Shisei",
+				"country":	""
+			}, {
+				"ix":	47,
+				"pos":	2,
+				"first":	"Aner",
+				"last":	"MARIN PAULE",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	84,
+				"pos":	3,
+				"first":	"Diego",
+				"last":	"LAGUNA GOMEZ",
+				"club":	"Real Jundo",
+				"country":	""
+			}, {
+				"ix":	45,
+				"pos":	3,
+				"first":	"Ricardo",
+				"last":	"DEL COLLADO RODRIGUEZ",
+				"club":	"IES Artaza-Romo",
+				"country":	""
+			}]
+	}, {
+		"category":	"InfM-60",
+		"numcomp":	3,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	101,
+				"pos":	1,
+				"first":	"Anas",
+				"last":	"BAKKALIAIT TALEB",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	49,
+				"pos":	2,
+				"first":	"Pablo",
+				"last":	"MCCALLION OCHOA",
+				"club":	"IES Artaza-Romo",
+				"country":	""
+			}, {
+				"ix":	59,
+				"pos":	3,
+				"first":	"Julen",
+				"last":	"REVELO CERON",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}]
+	}, {
+		"category":	"InfM+66",
+		"numcomp":	3,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	56,
+				"pos":	1,
+				"first":	"Mikel",
+				"last":	"SAN EMETERIO PRIETO",
+				"club":	"IES Artaza-Romo",
+				"country":	""
+			}, {
+				"ix":	23,
+				"pos":	2,
+				"first":	"Hugo",
+				"last":	"RUBIO FONFRIA",
+				"club":	"Real Jundo",
+				"country":	""
+			}, {
+				"ix":	83,
+				"pos":	3,
+				"first":	"Mikel",
+				"last":	"HUERGA RAMOS",
+				"club":	"El Regato",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadF-48",
+		"numcomp":	3,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	43,
+				"pos":	1,
+				"first":	"Lucia",
+				"last":	"VELASCO CANO",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	80,
+				"pos":	2,
+				"first":	"Ainhoa",
+				"last":	"CASELLES SUAREZ",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	81,
+				"pos":	3,
+				"first":	"Aroa",
+				"last":	"ORIVE LEON",
+				"club":	"Yamabuki",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadF-52",
+		"numcomp":	5,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	103,
+				"pos":	1,
+				"first":	"Alejandra",
+				"last":	"MARTIN GIL",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	79,
+				"pos":	2,
+				"first":	"June",
+				"last":	"GARCIA GOMEZ",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	10,
+				"pos":	3,
+				"first":	"Izadi",
+				"last":	"ALONSO LOPEZ",
+				"club":	"Real Jundo",
+				"country":	""
+			}, {
+				"ix":	78,
+				"pos":	3,
+				"first":	"Leire",
+				"last":	"NORIEGA BLANCO",
+				"club":	"Yamabuki",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadF-57",
+		"numcomp":	3,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	42,
+				"pos":	1,
+				"first":	"Nahia",
+				"last":	"GARCIA GOMEZ",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	72,
+				"pos":	2,
+				"first":	"Ana Laura",
+				"last":	"CLEMENTE DOS SANTOS",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	102,
+				"pos":	3,
+				"first":	"Nora",
+				"last":	"BAÑUELOS ROCH",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-50",
+		"numcomp":	4,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	11,
+				"pos":	1,
+				"first":	"Diego",
+				"last":	"CARRASCO ALONSO",
+				"club":	"Real Jundo",
+				"country":	""
+			}, {
+				"ix":	38,
+				"pos":	2,
+				"first":	"Ivan",
+				"last":	"DUÑABEITIA JORGE",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	39,
+				"pos":	3,
+				"first":	"Kerman",
+				"last":	"SOLAR DOMINGUEZ",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	74,
+				"pos":	3,
+				"first":	"Markel",
+				"last":	"URIBARREN RUIZ",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-55",
+		"numcomp":	2,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	40,
+				"pos":	1,
+				"first":	"Jon",
+				"last":	"CIRIERO RUIZ",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	70,
+				"pos":	2,
+				"first":	"Pablo",
+				"last":	"ALCEDO PIÑEIRO",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-60",
+		"numcomp":	7,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	41,
+				"pos":	1,
+				"first":	"Peio",
+				"last":	"SADABA CORBATXO",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	44,
+				"pos":	2,
+				"first":	"Asier",
+				"last":	"SADABA RUEDA",
+				"club":	"Yamabuki",
+				"country":	""
+			}, {
+				"ix":	19,
+				"pos":	3,
+				"first":	"Tello",
+				"last":	"ECHABE PASCUAL",
+				"club":	"Samurai",
+				"country":	""
+			}, {
+				"ix":	69,
+				"pos":	3,
+				"first":	"Noel",
+				"last":	"BLANCO GONZALEZ",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-66",
+		"numcomp":	11,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	22,
+				"pos":	1,
+				"first":	"Liher",
+				"last":	"PEREDA BIDARTE",
+				"club":	"Shisei",
+				"country":	""
+			}, {
+				"ix":	37,
+				"pos":	2,
+				"first":	"Aritz",
+				"last":	"BASARRATE DELGADO",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	21,
+				"pos":	3,
+				"first":	"Ian",
+				"last":	"BOSCHINI PEREZ",
+				"club":	"Shisei",
+				"country":	""
+			}, {
+				"ix":	36,
+				"pos":	3,
+				"first":	"Jeronimo",
+				"last":	"LARGO NUÑEZ",
+				"club":	"J.C. Erandio",
+				"country":	""
+			}, {
+				"ix":	13,
+				"pos":	5,
+				"first":	"Aitor",
+				"last":	"JAYO CALLE",
+				"club":	"Samurai",
+				"country":	""
+			}, {
+				"ix":	76,
+				"pos":	5,
+				"first":	"Alain",
+				"last":	"PLAZA DA SILVA",
+				"club":	"Ohisama",
+				"country":	""
+			}, {
+				"ix":	14,
+				"pos":	7,
+				"first":	"Alberto",
+				"last":	"MORANDEIRA ARTECHE",
+				"club":	"Samurai",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-73",
+		"numcomp":	1,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	71,
+				"pos":	1,
+				"first":	"Pedro",
+				"last":	"LAFUENTE WALLS",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}, {
+		"category":	"CadM-81",
+		"numcomp":	1,
+		"clubtext":	1,
+		"nameord":	1,
+		"competitors":	[{
+				"ix":	67,
+				"pos":	1,
+				"first":	"Miguel",
+				"last":	"GARCIA GARMENDIA",
+				"club":	"Ohisama",
+				"country":	""
+			}]
+	}]

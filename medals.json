@@ -1,0 +1,64 @@
+[{
+		"club":	"Ohisama",
+		"pos":	1,
+		"p1":	6,
+		"p2":	4,
+		"p3":	7,
+		"numcompetitors":	22
+	}, {
+		"club":	"Yamabuki",
+		"pos":	2,
+		"p1":	4,
+		"p2":	3,
+		"p3":	2,
+		"numcompetitors":	9
+	}, {
+		"club":	"IES Artaza-Romo",
+		"pos":	3,
+		"p1":	3,
+		"p2":	1,
+		"p3":	4,
+		"numcompetitors":	12
+	}, {
+		"club":	"J.C. Erandio",
+		"pos":	4,
+		"p1":	2,
+		"p2":	4,
+		"p3":	4,
+		"numcompetitors":	12
+	}, {
+		"club":	"Real Jundo",
+		"pos":	5,
+		"p1":	2,
+		"p2":	1,
+		"p3":	3,
+		"numcompetitors":	6
+	}, {
+		"club":	"Shisei",
+		"pos":	6,
+		"p1":	2,
+		"p2":	1,
+		"p3":	1,
+		"numcompetitors":	4
+	}, {
+		"club":	"J.C. Sonkei",
+		"pos":	7,
+		"p1":	1,
+		"p2":	2,
+		"p3":	1,
+		"numcompetitors":	4
+	}, {
+		"club":	"Samurai",
+		"pos":	8,
+		"p1":	0,
+		"p2":	0,
+		"p3":	2,
+		"numcompetitors":	12
+	}, {
+		"club":	"El Regato",
+		"pos":	9,
+		"p1":	0,
+		"p2":	0,
+		"p3":	1,
+		"numcompetitors":	1
+	}]
